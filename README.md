@@ -1,20 +1,16 @@
-### Hello World, I'm Alessandro Hidalgo:
+### <h1> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hello World, soy Alessandro Hidalgo<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /></h1>
 
-<h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
-  𝐇ola, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
+<h3 align="center">
+  &lt;Un dedicado programador Full Stack de Valledupar, Colombia/&gt; !
+</h3>
 
-<br/>
-<br/>
+<h2>Sobre Mi<h2>
+  <br>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
+
+<p>hola Mundo</p>
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Golang and Competitive Programming**
