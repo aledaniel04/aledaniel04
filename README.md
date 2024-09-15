@@ -4,7 +4,7 @@
   &lt;Un dedicado programador Full Stack de Valledupar, Colombia/&gt; !
 </h3>
 
-<h2>Sobre Mi<h2>
+<h2>Sobre Mi</h2>
   <br>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
