@@ -1,23 +1,23 @@
 ### <h1> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hello World, soy Alessandro Hidalgo<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /></h1>
 
 <h3 align="center">
-  &lt;Un dedicado programador Full Stack de Valledupar, Colombia/&gt; !
+  &lt;Un dedicado programador Full Stack de Valledupar, Colombia/&gt;
 </h3>
 
 <h2>Sobre Mi</h2>
-  <br>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-<p>hola Mundo</p>
+<p>Hola, soy un desarrollador Full Stack cuyo campo de estudio incluye la creación de experiencias web interactivas y efectivas. Estoy especializado en HTML, CSS y JavaScript. Más recientemente, me he sumergido en la creación de aplicaciones con React y he explorado a fondo las capacidades de la biblioteca y de esa forma saber qué hace que las aplicaciones sean rápidas o lentas al evaluar diversas formas de mejorar el rendimiento a través de múltiples proyectos personales. <br/><br/>
+  Por otra parte, En cuanto al backend he construido una buena base con Node.js, ya que me agrada la idea de utilizar APIs que sean eficientes, no solo para satisfacer las necesidades del sistema sino que también sean escalables y adaptables. Por su parte al usar MySQL como parte del backend, eso me ha ayudado a diseñar esquemas robustos y optimizados para asegurarme de que la masa de datos siga su flujo tranquilamente. Esta combinación de tecnologías me ha permitido realizar aplicaciones que se ven y funcionan bien. <br/><br/>
+  Finalmente, cuento con un diploma que me acredita como Ingeniero de Sistemas de la Universidad de las Fuerzas Armadas de Venezuela, donde obtuve una base sólida para abordar nuevos proyectos con seguridad y encontrar soluciones rápidas y fáciles a los problemas que inevitablemente surgen.</p> <br/>
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Golang and Competitive Programming**
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for with **Internships**
-- 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help.
-- 😄 Pronouns : **He/Him/His**
+- 🔭 Actualmente estoy buscando trabajando como **Desarrollador web**
+- 🌱 Actualmente estoy aprendiendo **TypeScript**
+- 👯 Estoy buscando colaborar en **Aplicaciones web**
+- 💬 Ask me about Anything [here](https://www.linkedin.com/in/alessandro-hidalgo-456476326/)! I am happy to help.
+- 📫 Contactame **alessandrohidalgo8@gmail.com**
 
 
 <br/>
