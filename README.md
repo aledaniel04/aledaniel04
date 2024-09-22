@@ -16,7 +16,7 @@
 - 🔭 Actualmente estoy buscando trabajando como **Desarrollador web**
 - 🌱 Actualmente estoy aprendiendo **TypeScript**
 - 👯 Estoy buscando colaborar en **Aplicaciones web**
-- 💬 Ask me about Anything [here](https://www.linkedin.com/in/alessandro-hidalgo-456476326/)! I am happy to help.
+- 💬 Pregúntame sobre cualquier cosa [here](https://www.linkedin.com/in/alessandro-hidalgo-456476326/)! estoy feliz de ayudarte.
 - 📫 Contactame **alessandrohidalgo8@gmail.com**
 
 
