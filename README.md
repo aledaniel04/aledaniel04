@@ -1,7 +1,7 @@
 ### <h1> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"> Hola Mundo, soy Alessandro Hidalgo<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /></h1>
 
 <h3 align="center">
-  &lt;Desarrollador junior Full Stack de Valledupar, Colombia/&gt;
+  &lt;Desarrollador Web FullStack de Valledupar, Colombia/&gt;
 </h3>
 
 <h2>Sobre Mi</h2>
