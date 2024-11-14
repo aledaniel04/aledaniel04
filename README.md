@@ -38,6 +38,7 @@
 **LENGUAJES Y HERRAMIENTAS:**  
 
 
+
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"></code>
@@ -60,3 +61,12 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
 
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/aleoficial08?t=8xtDNRdYLJS9IiKrcxghNA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ggangix" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alessandro-hidalgo-456476326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giuseppegangi/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/alessandrodh/profilecard/?igsh=djF1N3AwenRmYnpx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giuseppe.gangi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/alessandro.hidalgo.75?mibextid=ZbWKwL" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6ccd70c9-4e69-4f92-83d7-1d56709393e9" alt="giuseppe.gangi" height="30" width="30" /></a>
+</p>
